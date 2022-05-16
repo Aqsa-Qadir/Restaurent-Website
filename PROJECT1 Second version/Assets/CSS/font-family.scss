@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Alliance';
+    src: local('Alliance No 2 Bold'), local('Alliance-No-2-Bold'),
+        url('./Font/AllianceNo2-Bold.woff2') format('woff2'),
+        url('./Font/AllianceNo2-Bold.woff') format('woff'),
+        url('./Font/AllianceNo2-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cyntho Next';
+    src: local('Cyntho Next Bold'), local('Cyntho-Next-Bold'),
+        url('./Font/CynthoNext-Bold.woff2') format('woff2'),
+        url('./Font/CynthoNext-Bold.woff') format('woff'),
+        url('./Font/CynthoNext-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Slate Pro';
+    src: local('Slate Pro Light'), local('Slate-Pro-Light'),
+        url('./Font/SlatePro-Light.woff2') format('woff2'),
+        url('./Font/SlatePro-Light.woff') format('woff'),
+        url('./Font/SlatePro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Integral CF';
+    src: local('Integral CF Regular'), local('Integral-CF-Regular'),
+        url('./Font/IntegralCF-Regular.woff2') format('woff2'),
+        url('./Font/IntegralCF-Regular.woff') format('woff'),
+        url('./Font/IntegralCF-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
